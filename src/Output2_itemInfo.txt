@@ -1,0 +1,15 @@
+----------------Item-----------------
+OnionRing:
+    Defense: 10.0 Type: Ring
+ChillShield:
+    Defense: 60.0 Type: Shield
+TomatoSword:
+    Damage: 100.0 Type: Sword
+    Range: mid
+TAStaff: 
+    Damage: 5.0 Type: Staff
+    Range: short
+Knifel:
+    Damage: 50.0 Type: Knife
+    Range: short
+-------------------------------------

@@ -1,0 +1,37 @@
+-------------Player update status---------------
+Yusha Got TomatoSwordChillShield
+Yuna Got TAStaffOnionRing
+Jett Got TomatoSwordChillShield
+Riku Got Knifelnone
+=======================================================================================
+' Yusha '
+Race: Human     Job: Swordman
+Level: 50
+maxHP: 750.0     maxMP: 180.0
+Attack: 240.0     Defend: 205.0     Speed: 75.0
+Equipment: 1)TomatoSword   2)ChillShield   Skill: 1)Haste
+=======================================================================================
+=======================================================================================
+' Yuna '
+Race: Human     Job: Summoner
+Level: 1
+maxHP: 180.0     maxMP: 172.0
+Attack: 27.0     Defend: 32.0     Speed: 39.0
+Equipment: 1)TAStaff   2)OnionRing   Skill: 1)Valefor   2)Ifrit   3)Bahamut   4)Heal   5)Life   6)Reflex
+=======================================================================================
+=======================================================================================
+' Jett '
+Race: Dwarf     Job: Swordman
+Level: 1
+maxHP: 230.0     maxMP: 62.0
+Attack: 137.0     Defend: 102.0     Speed: 41.0
+Equipment: 1)TomatoSword   2)ChillShield   Skill: 1)Haste
+=======================================================================================
+=======================================================================================
+' Riku '
+Race: Dwarf     Job: Thief
+Level: 1
+maxHP: 170.0     maxMP: 62.0
+Attack: 77.0     Defend: 22.0     Speed: 66.0
+Equipment: 1)Knifel   2)none   Skill: 1)Steal
+=======================================================================================
