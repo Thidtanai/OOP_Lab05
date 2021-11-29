@@ -26,6 +26,11 @@ public class Human_Summoner extends Human implements JobInterface, WhiteMagic, S
     private int JobSkillCount;
 
     //method
+    /**
+     * for create character with race human job summoner
+     * @param name input character name
+     * @param level input charcter level
+     */
     public Human_Summoner(String name, int level){
         setStart(name, level);
         LevelUp(level);
@@ -42,6 +47,11 @@ public class Human_Summoner extends Human implements JobInterface, WhiteMagic, S
     }
 
     //for quick fix bug
+    /**
+     * this for quick fix bug //will fix it when free time
+     * @param skill1 for add skill1
+     * @param skill2 for add skill2
+     */
     public void setSkillSize(int skill1, int skill2){
         int summonCount = skill1;
         int whitemagicCount = skill2;

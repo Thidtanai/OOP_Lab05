@@ -8,6 +8,10 @@ public class Staff extends WeaponType implements ItemDamage {
     protected float Damage = 5;
 
     //method
+    /**
+     * for create item
+     * @param itemName input item name
+     */
     public Staff(String itemName){
         setItemName(itemName);
         super.WeaponType = "Staff";

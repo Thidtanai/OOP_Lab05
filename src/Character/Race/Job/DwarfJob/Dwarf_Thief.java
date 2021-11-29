@@ -24,6 +24,11 @@ public class Dwarf_Thief extends Dwarf implements JobInterface, Steal{
     private int JobSkillCount;
 
     //method
+    /**
+     * for create character with race dwarf job thief
+     * @param name input character name
+     * @param level input charcter level
+     */
     public Dwarf_Thief(String name, int level){
         setStart(name, level);
         LevelUp(level);

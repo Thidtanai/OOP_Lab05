@@ -6,6 +6,10 @@ import Accessories.Type.ItemDefense;
 public class Shield extends ArmorType implements ItemDefense{
     protected float Defense = 60;
     
+    /**
+     * for create item
+     * @param itemName input item name
+     */
     public Shield(String itemName){
         setItemName(itemName);
         super.ArmorType = "Shield";

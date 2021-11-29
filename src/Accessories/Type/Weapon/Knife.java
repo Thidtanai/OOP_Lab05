@@ -8,6 +8,10 @@ public class Knife extends WeaponType implements ItemDamage{
     protected float Damage = 50; 
 
     //method
+    /**
+     * for create item
+     * @param itemName input item name
+     */
     public Knife(String itemName){
         setItemName(itemName);
         super.WeaponType = "Knife";

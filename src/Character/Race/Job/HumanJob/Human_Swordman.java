@@ -24,6 +24,11 @@ public class Human_Swordman extends Human implements JobInterface, Buff{
     private int JobSkillCount;
 
     //method
+    /**
+     * for create character with race human job swordman
+     * @param name input character name
+     * @param level input charcter level
+     */
     public Human_Swordman(String name, int level){
         setStart(name, level);
         LevelUp(level);

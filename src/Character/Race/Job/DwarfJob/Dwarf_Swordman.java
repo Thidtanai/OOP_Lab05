@@ -24,6 +24,11 @@ public class Dwarf_Swordman extends Dwarf implements JobInterface, Buff{
     private int JobSkillCount;
 
     //method
+    /**
+     * for create character with race dwarf job swordman
+     * @param name input character name
+     * @param level input charcter level
+     */
     public Dwarf_Swordman(String name, int level){
         setStart(name, level);
         LevelUp(level);

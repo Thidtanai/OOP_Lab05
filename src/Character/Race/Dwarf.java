@@ -13,6 +13,10 @@ public class Dwarf extends Character implements RaceInterface{
     private float DwarfSpd = 20;
 
     //Dwarf method
+    /**
+     * dwarf unique skill
+     * @return skill name
+     */
     public String CraftingItem(){
         return "craftItem";
     }

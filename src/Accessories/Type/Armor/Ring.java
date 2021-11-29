@@ -6,6 +6,10 @@ import Accessories.Type.ItemDefense;
 public class Ring extends ArmorType implements ItemDefense {
     protected float Defense = 10;
 
+    /**
+     * for create item
+     * @param itemName input item name
+     */
     public Ring(String itemName){
         setItemName(itemName);
         super.ArmorType = "Ring";
